@@ -1,0 +1,15 @@
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/RestockInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/RestockInventory.AssemblyInfoInputs.cache
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/RestockInventory.AssemblyInfo.cs
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/RestockInventory.csproj.CoreCompileInputs.cache
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/RestockInventory.sourcelink.json
+/Users/christophermcadory/Desktop/RestockInventory/bin/Debug/net9.0/RestockInventory
+/Users/christophermcadory/Desktop/RestockInventory/bin/Debug/net9.0/RestockInventory.deps.json
+/Users/christophermcadory/Desktop/RestockInventory/bin/Debug/net9.0/RestockInventory.runtimeconfig.json
+/Users/christophermcadory/Desktop/RestockInventory/bin/Debug/net9.0/RestockInventory.dll
+/Users/christophermcadory/Desktop/RestockInventory/bin/Debug/net9.0/RestockInventory.pdb
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/RestockInventory.dll
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/refint/RestockInventory.dll
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/RestockInventory.pdb
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/RestockInventory.genruntimeconfig.cache
+/Users/christophermcadory/Desktop/RestockInventory/obj/Debug/net9.0/ref/RestockInventory.dll
